@@ -1,1 +1,15 @@
-
+{
+  "name": "crash-game-server",
+  "version": "1.0.0",
+  "description": "Crash Game Engine",
+  "main": "engine.js",
+  "scripts": {
+    "start": "node engine.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.11.1"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
