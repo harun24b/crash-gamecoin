@@ -4,7 +4,8 @@
   "description": "Crash Game Engine",
   "main": "engine.js",
   "scripts": {
-    "start": "node engine.js"
+    "start": "node engine.js",
+    "build": "npm install" 
   },
   "dependencies": {
     "firebase-admin": "^11.11.1"
